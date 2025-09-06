@@ -1,1 +1,1 @@
-> Commit e finalização do sistema serão desenvolvidos!
+> Commit and finalize the system will be developed! 
